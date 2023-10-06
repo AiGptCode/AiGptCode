@@ -1,12 +1,12 @@
-👋 Hi, I’m @AiGptCode, a passionate coder on a journey of exploration and innovation.
+🦹‍♂️ Hi, I’m @AiGptCode, a passionate coder on a journey of exploration and innovation.
 
-👀 I’m deeply fascinated by the world of code. To me, hacking is like an intricate dance, requiring patience and dedication, and ultimately leading to the joy of solving complex puzzles.
+⚙️ I’m deeply fascinated by the world of code. To me, hacking is like an intricate dance, requiring patience and dedication, and ultimately leading to the joy of solving complex puzzles.
 
-🌱 Currently, I'm in a constant state of learning, always eager to expand my knowledge and skills in the ever-evolving tech landscape.
+💻 Currently, I'm in a constant state of learning, always eager to expand my knowledge and skills in the ever-evolving tech landscape.
 
-💞️ My goal is to collaborate with fellow enthusiasts and experts in the exciting realm of AI, contributing to the advancement of this transformative technology.
+🎯🥇 My goal is to collaborate with fellow enthusiasts and experts in the exciting realm of AI, contributing to the advancement of this transformative technology.
 
-❤️ Feel free to support my endeavors through donations at:
+💞️ Feel free to support my endeavors through donations at:
    - Ethereum: 0xc177e861fD9a9F598236C7183e105b9CCec9cb3e
    - Bitcoin: bc1q3230gkphdk5qzsxtj079mz5w35svwrpwq6wh8c
 
