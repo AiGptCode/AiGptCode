@@ -4,7 +4,7 @@
 
 💻 Currently, I'm in a constant state of learning, always eager to expand my knowledge and skills in the ever-evolving tech landscape.
 
-🎯🥇 My goal is to collaborate with fellow enthusiasts and experts in the exciting realm of AI, contributing to the advancement of this transformative technology.
+🥇 My goal is to collaborate with fellow enthusiasts and experts in the exciting realm of AI, contributing to the advancement of this transformative technology.
 
 💞️ Feel free to support my endeavors through donations at:
    - Ethereum: 0xc177e861fD9a9F598236C7183e105b9CCec9cb3e
