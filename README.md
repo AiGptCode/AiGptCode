@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=AIGPTCODE+" alt="Typing SVG" /></a>
+
 🦹‍♂️ Hi, I’m @AiGptCode, a passionate coder on a journey of exploration and innovation.
  
 ⚙️ I’m deeply fascinated by the world of code. To me, hacking is like an intricate dance, requiring patience and dedication, and ultimately leading to the joy of solving complex puzzles.
