@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Hello Page</title>
+    <style>
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .box {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            background-color: #ccc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 1.2em;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">Box 1</div>
+        <div class="box">Box 2</div>
+        <div class="box">Box 3</div>
+        <div class="box">Box 4</div>
+        <div class="box">Box 5</div>
+        <div class="box">Box 6</div>
+        <div class="box">Box 7</div>
+        <div class="box">Box 8</div>
+        <div class="box">Box 9</div>
+        <div class="box">Box 10</div>
+    </div>
+    
+    <input type="text" placeholder="Enter your message">
+    <textarea rows="4" cols="50" placeholder="Enter your text"></textarea>
 
+    <script>
+        // Timer for each box
+        const boxes = document.querySelectorAll('.box');
+        boxes.forEach((box, index) => {
+            setInterval(() => {
+                box.innerText = index + 1 + ' - ' + new Date().toLocaleTimeString();
+            }, (index + 1) * 1000);
+        });
+    </script>
+</body>
+</html>
