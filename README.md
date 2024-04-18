@@ -1,5 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=AIGPTCODE+" alt="Typing SVG" /></a>
 
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=4000&color=134358&random=false&width=520&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
+</p>
+
+---
+
+<p align="center">
+<img alt="Binaries in Motion" src="https://github.com/Simatwa/Simatwa/blob/main/assets/binaries-in-motion.gif" width='70%'/>
+</p>
+
+
 🦹‍♂️ Hi, I’m @AiGptCode, a passionate coder on a journey of exploration and innovation.
  
 ⚙️ I’m deeply fascinated by the world of code. To me, hacking is like an intricate dance, requiring patience and dedication, and ultimately leading to the joy of solving complex puzzles.
