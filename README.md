@@ -13,7 +13,7 @@
 
 🦹‍♂️ Hi, I’m @AiGptCode, a passionate coder on a journey of exploration and innovation.
 
-❌ Follow me on x : https://twitter.com/aigptcode 
+💻 Follow me on x : https://twitter.com/aigptcode 
  
 ⚙️ I’m deeply fascinated by the world of code. To me, hacking is like an intricate dance, requiring patience and dedication, and ultimately leading to the joy of solving complex puzzles.
 
